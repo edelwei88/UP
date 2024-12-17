@@ -1,0 +1,15 @@
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\bin\Debug\net8.0\ExecLib.deps.json
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\bin\Debug\net8.0\ExecLib.dll
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\bin\Debug\net8.0\ExecLib.pdb
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\bin\Debug\net8.0\DBController.dll
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\bin\Debug\net8.0\DBController.pdb
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ExecLib.csproj.AssemblyReference.cache
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ExecLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ExecLib.AssemblyInfoInputs.cache
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ExecLib.AssemblyInfo.cs
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ExecLib.csproj.CoreCompileInputs.cache
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ExecLib.csproj.Up2Date
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ExecLib.dll
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\refint\ExecLib.dll
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ExecLib.pdb
+C:\Users\edelweiss\Desktop\УП\Задание 5\ExecLib\obj\Debug\net8.0\ref\ExecLib.dll

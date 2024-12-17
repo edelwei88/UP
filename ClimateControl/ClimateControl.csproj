@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DBController\DBController.csproj" />
+    <ProjectReference Include="..\ExecLib\ExecLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Manager\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager\Requests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Operator\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Operator\Requests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Specialist\OrderRepairPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Specialist\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CaptchaGen.NetCore" Version="1.1.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="QRCoder" Version="1.6.0" />
+  </ItemGroup>
+
+</Project>

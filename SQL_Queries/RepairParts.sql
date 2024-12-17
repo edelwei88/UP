@@ -1,0 +1,5 @@
+CREATE TABLE RepairParts(
+repairPartID INT NOT NULL PRIMARY KEY IDENTITY(1, 1),
+repairPart NVARCHAR(MAX) NOT NULL,
+requestID INT NOT NULL REFERENCES Requests(requestID)
+)

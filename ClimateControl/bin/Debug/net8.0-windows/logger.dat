@@ -1,0 +1,412 @@
+[
+  {
+    "LoginDateTime": "2024-12-15T20:28:37.2514058+03:00",
+    "Login": "hjkgjh",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-15T21:46:52.7829524+03:00",
+    "Login": "asdf",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-15T21:46:58.9313191+03:00",
+    "Login": "adsf",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-15T21:50:09.9762319+03:00",
+    "Login": "asdf",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-15T22:18:26.2517434+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-15T22:19:05.1825052+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-15T22:19:52.4515337+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-15T22:23:33.2529957+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-15T22:23:48.6627041+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-15T22:46:01.5542145+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T10:26:13.8251106+03:00",
+    "Login": "asfs",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-16T10:27:35.2971419+03:00",
+    "Login": "asfs",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-16T10:28:54.9168055+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T18:39:24.1168751+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T18:41:28.0494694+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T18:42:50.1020912+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T18:48:37.0743992+03:00",
+    "Login": "login6",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-16T18:48:43.3169738+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T18:48:46.4463558+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T18:49:01.3906867+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T22:54:06.6523727+03:00",
+    "Login": "login1",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T22:54:31.1975249+03:00",
+    "Login": "login2",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T22:55:02.0936638+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T22:55:20.7045434+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T22:56:08.4740285+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T22:58:05.4679267+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T22:58:54.7385703+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T22:59:21.8402066+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T23:00:25.6787559+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T23:01:56.4199578+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T23:03:24.8443236+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T23:03:45.5510873+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T23:22:10.6970131+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-16T23:23:57.3585458+03:00",
+    "Login": "login1",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:23:11.3626168+03:00",
+    "Login": "login1",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:24:40.5588679+03:00",
+    "Login": "gfdfg",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:25:34.162496+03:00",
+    "Login": "gfdfg",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:34:51.6175943+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:35:43.4144446+03:00",
+    "Login": "yttyrrt",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:35:51.8779715+03:00",
+    "Login": "ytyrrt",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:36:00.7166974+03:00",
+    "Login": "trtet",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:37:11.2588707+03:00",
+    "Login": "asfd",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T10:49:11.4172856+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:05:23.0774323+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:05:41.6751718+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:11:08.0945474+03:00",
+    "Login": "login1",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:13:13.3845958+03:00",
+    "Login": "login2",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:14:39.3519618+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:15:42.5995707+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:17:08.9109875+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:19:43.9900809+03:00",
+    "Login": "login1",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:20:16.5424293+03:00",
+    "Login": "login2",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:20:42.1100822+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:20:57.0375047+03:00",
+    "Login": "login7",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:21:13.1736294+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:37:00.2440798+03:00",
+    "Login": "login",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:37:05.4736216+03:00",
+    "Login": "login",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:38:19.4900557+03:00",
+    "Login": "login1",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:38:35.457654+03:00",
+    "Login": "login1",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:38:59.9486584+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:39:49.3116876+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:40:46.3836964+03:00",
+    "Login": "login",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:40:56.9303956+03:00",
+    "Login": "login2",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:42:11.5113273+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:44:18.8381831+03:00",
+    "Login": "login1",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:46:54.2262863+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:47:05.9821345+03:00",
+    "Login": "ffsfsdfsd",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:48:11.1710336+03:00",
+    "Login": "login1",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:48:15.6376117+03:00",
+    "Login": "gfgd",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:50:48.1192546+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T11:54:03.2101729+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T12:19:22.6279711+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T13:25:42.5415649+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T14:11:01.390212+03:00",
+    "Login": "login2",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T14:21:56.7440982+03:00",
+    "Login": "аывы",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T19:35:30.312417+03:00",
+    "Login": "login6",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T20:21:15.5063975+03:00",
+    "Login": "login1",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T20:57:17.8631355+03:00",
+    "Login": "login4",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T21:20:16.5966324+03:00",
+    "Login": "login2",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T22:01:35.5327139+03:00",
+    "Login": "павпв",
+    "Result": false
+  },
+  {
+    "LoginDateTime": "2024-12-17T22:03:16.6297917+03:00",
+    "Login": "login3",
+    "Result": true
+  },
+  {
+    "LoginDateTime": "2024-12-17T22:04:37.1533635+03:00",
+    "Login": "login10",
+    "Result": true
+  }
+]

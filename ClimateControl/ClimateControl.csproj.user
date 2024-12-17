@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\CheckComments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\CreateRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\EditRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\QRCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Specialist\ManageRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Specialist\LeaveComment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+CREATE TABLE RequestStatuses(
+requestStatusID INT NOT NULL PRIMARY KEY IDENTITY(1, 1),
+requestStatus NVARCHAR(255) NOT NULL
+)

@@ -1,0 +1,5 @@
+CREATE TABLE Comments(
+commentID INT NOT NULL PRIMARY KEY IDENTITY(1, 1),
+message NVARCHAR(MAX) NOT NULL,
+requestID INT NOT NULL REFERENCES Requests(requestID)
+)

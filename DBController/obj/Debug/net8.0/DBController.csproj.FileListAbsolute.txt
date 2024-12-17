@@ -1,0 +1,12 @@
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\bin\Debug\net8.0\DBController.deps.json
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\bin\Debug\net8.0\DBController.dll
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\bin\Debug\net8.0\DBController.pdb
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\DBController.csproj.AssemblyReference.cache
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\DBController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\DBController.AssemblyInfoInputs.cache
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\DBController.AssemblyInfo.cs
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\DBController.csproj.CoreCompileInputs.cache
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\DBController.dll
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\refint\DBController.dll
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\DBController.pdb
+C:\Users\edelweiss\Desktop\УП\Задание 5\DBController\obj\Debug\net8.0\ref\DBController.dll
